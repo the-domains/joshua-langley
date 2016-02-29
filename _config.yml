@@ -1,0 +1,28 @@
+name: Joshua Langley
+favicon: null
+layout_spectrum: 0.7784268648829311
+typography_spectrum: 0.15998060768470168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.406315392581746
+  lightness: 0.5661536876577884
+  saturation: 0.3146823332644999
+  rhythmicContrast: 0.342164978152141
+purpose: []
